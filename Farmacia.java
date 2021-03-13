@@ -7,7 +7,7 @@ package com.mycompany.tareagrupo;
 
 /**
  *
- * @author Jorge Elvir
+ * @author eduar ramos
  */
 public class Farmacia extends Hospital{
     private String medicamentos;
